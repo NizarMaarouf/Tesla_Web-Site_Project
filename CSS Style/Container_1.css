@@ -1,0 +1,341 @@
+                  * {
+                      box-sizing: border-box;
+                      margin: 0;
+                      padding: 0;
+                  }
+                  
+                  .container_1 {
+                      position: relative;
+                      width: 1920px;
+                      height: 970px;
+                      margin: 0;
+                      padding: 0;
+                      background-image: url(/Image/model-3-hero-desktop.jpg);
+                      background-repeat: no-repeat;
+                      background-size: 1920px 970px;
+                  }
+                  
+                  .box {
+                      position: relative;
+                      width: 1920px;
+                      height: 50px;
+                  }
+                  
+                  .box_1 {
+                      position: static;
+                      margin: 0px 10px 15px 10px;
+                      text-align: center;
+                      position: absolute;
+                      width: 130px;
+                      height: 50px;
+                  }
+                  
+                  .cel_11 {
+                      position: absolute;
+                      padding-left: 5px;
+                      list-style: none;
+                      width: 110px;
+                      height: 25px;
+                      left: 15px;
+                  }
+                  
+                  a {
+                      color: white;
+                  }
+                  
+                  a:hover,
+                  a:visited {
+                      border: 1px ridge #933c70c3;
+                      border-radius: 10px;
+                      margin: 0px 0px 8px 15px;
+                      background-color: #933c70c3;
+                  }
+                  
+                  .cel_11:hover {
+                      background-color: #933c70c3;
+                  }
+                  
+                  .box_2 {
+                      position: absolute;
+                      padding: 20px 0px 0px 0px;
+                      font-size: 8px;
+                      width: 860px;
+                      height: 50px;
+                      right: 850px;
+                      top: 0px;
+                  }
+                  
+                  .cel_1 {
+                      list-style: none;
+                      position: absolute;
+                      width: 140px;
+                      height: 25px;
+                      right: 0px;
+                  }
+                  
+                  .cel_2 {
+                      list-style: none;
+                      position: absolute;
+                      width: 120px;
+                      height: 25px;
+                      right: 120px;
+                  }
+                  
+                  .cel_3 {
+                      list-style: none;
+                      position: absolute;
+                      width: 105px;
+                      height: 25px;
+                      right: 220px;
+                  }
+                  
+                  .cel_4 {
+                      list-style: none;
+                      position: absolute;
+                      width: 105px;
+                      height: 25px;
+                      right: 305px;
+                  }
+                  
+                  .cel_5 {
+                      list-style: none;
+                      position: absolute;
+                      width: 105px;
+                      height: 25px;
+                      right: 390px;
+                  }
+                  
+                  .cel_6 {
+                      list-style: none;
+                      position: absolute;
+                      width: 105px;
+                      height: 25px;
+                      right: 475px;
+                  }
+                  
+                  li a {
+                      font-size: small;
+                      color: white;
+                  }
+                  
+                  li {
+                      float: left;
+                  }
+                  
+                  .box_3 {
+                      position: absolute;
+                      padding: 20px 0px 0px 0px;
+                      width: 210px;
+                      height: 50px;
+                      right: 140px;
+                  }
+                  
+                  .cel_8 {
+                      list-style: none;
+                      position: absolute;
+                      width: 145px;
+                      height: 25px;
+                      right: 85px;
+                  }
+                  
+                  .cel_7 {
+                      list-style: none;
+                      position: absolute;
+                      width: 80px;
+                      height: 25px;
+                      right: 210px;
+                  }
+                  
+                  .box_4 {
+                      padding: 10px 0px 0px 0px;
+                      position: absolute;
+                      width: 180px;
+                      height: 50px;
+                      right: 20px;
+                  }
+                  
+                  .box_5 {
+                      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+                      color: white;
+                      font-size: 40px;
+                      font-weight: bold;
+                      text-align: center;
+                      position: absolute;
+                      width: 160px;
+                      height: 60px;
+                      right: 850px;
+                      top: 165px;
+                  }
+                  
+                  .box_a {
+                      text-align: center;
+                      font-size: 14px;
+                      font-weight: bold;
+                      text-align: center;
+                      position: absolute;
+                  }
+                  
+                  .box_aa {
+                      text-align: center;
+                      position: absolute;
+                      font-weight: bold;
+                      text-decoration: none;
+                      padding: 5px 20px;
+                      right: 1220px;
+                      top: 600px;
+                  }
+                  
+                  #cel_a {
+                      text-align: center;
+                      color: white;
+                      font-size: 30px;
+                      font-weight: bold;
+                      text-align: center;
+                      left: 790px;
+                      top: 740px;
+                  }
+                  
+                  #cel_aa {
+                      text-decoration: none;
+                      color: white;
+                      position: absolute;
+                      width: 160px;
+                      left: 750px;
+                      top: 776px;
+                      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+                  }
+                  
+                  .box_b {
+                      color: white;
+                      position: absolute;
+                      font-size: 30px;
+                      font-weight: bold;
+                      text-decoration: none;
+                      padding: 5px 20px;
+                      top: 368px;
+                      right: 450px;
+                      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+                  }
+                  
+                  .box_bb {
+                      position: absolute;
+                      font-weight: bold;
+                      text-decoration: none;
+                      padding: 5px 20px;
+                      top: 740px;
+                  }
+                  
+                  #cel_b {
+                      border-left: ridge;
+                      height: 150px;
+                      width: 120px;
+                      height: 100px;
+                  }
+                  
+                  #cel_bb {
+                      font-size: 13px;
+                      font-weight: bold;
+                      text-align: center;
+                      text-decoration: none;
+                      color: white;
+                      padding: 5px 20px;
+                      position: absolute;
+                      right: 450px;
+                      top: 410px;
+                      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+                  }
+                  
+                  .box_c {
+                      font-size: 28px;
+                      font-weight: bold;
+                      text-decoration: none;
+                      color: white;
+                      padding: 5px 20px;
+                      border-left: ridge;
+                      height: 150px;
+                      position: absolute;
+                      right: 760px;
+                      top: 740px;
+                      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+                  }
+                  
+                  #cel_c {
+                      width: 120px;
+                      height: 100px;
+                  }
+                  
+                  .box_cc {
+                      font-size: 13px;
+                      font-weight: bold;
+                      text-align: center;
+                      text-decoration: none;
+                      color: white;
+                      padding: 5px 20px;
+                      position: absolute;
+                      right: 760px;
+                      top: 780px;
+                      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+                  }
+                  
+                  #cel_cc {
+                      width: 120px;
+                      height: 70px;
+                  }
+                  
+                  .box_d {
+                      text-decoration: none;
+                      border: 2px solid gray;
+                      border-radius: 25px;
+                      position: absolute;
+                      width: 220px;
+                      height: 50px;
+                      right: 530px;
+                      top: 760px;
+                  }
+                  
+                  .cel_d {
+                      position: absolute;
+                      margin: 0px 5px 0px 5px;
+                      text-decoration: none;
+                      list-style: none;
+                      height: 30px;
+                      right: 210px;
+                      top: 0px;
+                  }
+                  
+                  .cel_d:link,
+                  .cel_d:visited {
+                      padding: 10px 35px 20px 25px;
+                      text-decoration: none;
+                      bottom: 18px;
+                      right: 15px;
+                      font-weight: bold;
+                      font-size: 20px;
+                      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+                  }
+                  
+                  .box_d:link {
+                      font-size: 20px;
+                  }
+                  
+                  .box_d:hover {
+                      background-color: #933c70c3;
+                  }
+                  
+                  .name {
+                      text-decoration: none;
+                      color: white;
+                      font-size: 14px;
+                      position: static;
+                  }
+                  
+                  a:link,
+                  a:active {
+                      text-decoration: none;
+                      position: absolute;
+                      bottom: 12px;
+                      right: 15px;
+                      font-weight: bold;
+                      font-size: 14px;
+                      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+                  }
